@@ -51,12 +51,12 @@ git clone https://github.com/JesusASmx/ometeotl-Hope2024 YourFolder
 
 Put the .csv files of the datasets into the folder ```.YourFolder/Dataset``` with these names:
     <ul>
-      <li>PolyES_train.csv for the training split of the PolyHope dataset in spanish.</li>
-      <li>PolyES_train.csv for the test split of the PolyHope dataset in spanish.</li>
-      <li>PolyEN_train.csv for the training split of the PolyHope dataset in english.</li>
-      <li>PolyEN_train.csv for the test split of the PolyHope dataset in english.</li>
-      <li>EDI_train.csv for the training split of the HopeEDI dataset.</li>
-      <li>EDI_train.csv for the test split of the HopeEDI dataset.</li>
+      <li>```PolyES_train.csv``` for the training split of the PolyHope dataset in spanish.</li>
+      <li>```PolyES_train.csv``` for the test split of the PolyHope dataset in spanish.</li>
+      <li>```PolyEN_train.csv``` for the training split of the PolyHope dataset in english.</li>
+      <li>```PolyEN_train.csv``` for the test split of the PolyHope dataset in english.</li>
+      <li>```EDI_train.csv``` for the training split of the HopeEDI dataset.</li>
+      <li>```EDI_train.csv``` for the test split of the HopeEDI dataset.</li>
     </ul>
     
   </li>
